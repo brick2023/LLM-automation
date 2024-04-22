@@ -1,0 +1,9 @@
+[submodule "generate_QA"]
+	path = generate_QA
+	url = https://github.com/brick2023/generate_QA
+[submodule "modelTool"]
+	path = modelTool
+	url = https://github.com/brick2023/modelTool
+[submodule "alpaca-lora"]
+	path = alpaca-lora
+	url = https://github.com/yenslife/alpaca-lora
